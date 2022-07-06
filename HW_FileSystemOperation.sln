@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HW_FileSystemOperation", "HW_FileSystemOperation\HW_FileSystemOperation.csproj", "{5693858E-55E6-425A-931E-0C212B13EA55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5693858E-55E6-425A-931E-0C212B13EA55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5693858E-55E6-425A-931E-0C212B13EA55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5693858E-55E6-425A-931E-0C212B13EA55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5693858E-55E6-425A-931E-0C212B13EA55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A95D52B2-B9D3-4CCD-B1B5-C6F12ED01D4C}
+	EndGlobalSection
+EndGlobal
